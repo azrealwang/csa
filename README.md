@@ -1,4 +1,4 @@
-# Attack index-of-max cancellable biometrics using inequality-constrainedsimilarity-based attack
+# Attack index-of-max cancellable biometrics using inequality-constrained similarity-based attack
 
 This is source code of following paper. If using it in your research, please cite our paper.
 
