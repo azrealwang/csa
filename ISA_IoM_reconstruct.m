@@ -10,7 +10,7 @@ addpath_recurse("btp")
 opts.lambda = 0.5;% 0.5 1 2
 opts.beta = 1;% 0.5 0.8 1
 opts.K = 16;
-opts.L = 64;
+opts.L = 512;
 opts.gaussian=1; %1/0=gaussian/laplace
 opts.dX=size(LFW_10Samples_insightface,2);
 opts.model = random_IoM(opts);
