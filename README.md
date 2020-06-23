@@ -1,8 +1,8 @@
-# Attack cancellable biometrics using constrained-optimized similarity-based attack
+# Security analysis of cancellable biometrics using constrained-optimized similarity-based attack
 
 This is source code of following paper. If using it in your research, please cite our paper.
 
-*Hanrui Wang, Xingbo Dong, Zhe Jin, "Attack cancellable biometrics using constrained-optimized similarity-based attack," 2020.*
+*Hanrui Wang, Xingbo Dong, Zhe Jin, Andrew Beng Jin Teoh, Massimo Tistarelli, "Security analysis of cancellable biometrics using constrained-optimized similarity-based attack," 2020.*
 
 Partial codes refers to Xingbo Dong's paper, please also cite this paper if using the code.
 
@@ -12,4 +12,4 @@ Partial codes refers to Xingbo Dong's paper, please also cite this paper if usin
 
 CSA_IoM_reconstruct.m: Reconstruct preimage x;
 
-CSA_IoM_perf.m: Calculate performance of IoM and ISA;
+CSA_IoM_perf.m: Calculate performance of CSA;
