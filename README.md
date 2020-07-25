@@ -2,7 +2,7 @@
 
 This is source code of following paper. If using it in your research, please cite our paper.
 
-*Hanrui Wang, Xingbo Dong, Zhe Jin, Andrew Beng Jin Teoh, Massimo Tistarelli, "Security analysis of cancellable biometrics using constrained-optimized similarity-based attack," 2020.*
+*H. Wang, X. Dong, Z. Jin, A. B. J. Teoh, and M. Tistarelli, “Security analysis of cancellable biometricsusing constrained-optimized similarity-based attack,” arXivpreprint arXiv:2006.13051, 2020.*
 
 Partial codes refers to Xingbo Dong's paper, please also cite this paper if using the code.
 
