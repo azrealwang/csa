@@ -1,8 +1,8 @@
-# Security analysis of cancellable biometrics using constrained-optimized similarity-based attack
+# Interpretable security analysis of cancellable biometrics using constrained-optimized similarity-based attack
 
 This is source code of following paper. If using it in your research, please cite our paper.
 
-*H. Wang, X. Dong, Z. Jin, A. B. J. Teoh, and M. Tistarelli, “Security analysis of cancellable biometricsusing constrained-optimized similarity-based attack,” arXivpreprint arXiv:2006.13051, 2020.*
+*Wang, H., Dong, X., Jin, Z., Teoh, A. B. J., & Tistarelli, M. Interpretable Security Analysis of Cancellable Biometrics Using Constrained-Optimized Similarity-Based Attack. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 70-77).*
 
 Partial codes refers to Xingbo Dong's paper, please also cite this paper if using the code.
 
