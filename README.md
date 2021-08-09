@@ -2,11 +2,28 @@
 
 This is source code of following paper. If using it in your research, please cite our paper.
 
-*Wang, H., Dong, X., Jin, Z., Teoh, A. B. J., & Tistarelli, M. Interpretable Security Analysis of Cancellable Biometrics Using Constrained-Optimized Similarity-Based Attack. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 70-77).*
+```
+@inproceedings{wang2021interpretable,
+  title={Interpretable security analysis of cancellable biometrics using constrained-optimized similarity-based attack.},
+  author={Wang, Hanrui and Dong, Xingbo and Jin, Zhe and Teoh, Andrew Beng Jin and Tistarelli, Massimo},
+  booktitle={WACV (Workshops)},
+  pages={70--77},
+  year={2021}
+}
+```
 
 Partial codes refers to Xingbo Dong's paper, please also cite this paper if using the code.
 
-*X. Dong, Z. Jin, and A. T. B. Jin, “A genetic algorithmenabled similarity-based attack on cancellable biometrics,”arXiv preprint arXiv:1905.03021, 2019.*
+```
+@inproceedings{dong2019genetic,
+  title={A genetic algorithm enabled similarity-based attack on cancellable biometrics},
+  author={Dong, Xingbo and Jin, Zhe and Jin, Andrew Teoh Beng},
+  booktitle={2019 IEEE 10th International Conference on Biometrics Theory, Applications and Systems (BTAS)},
+  pages={1--8},
+  year={2019},
+  organization={IEEE}
+}
+```
 
 ## Introduction
 
