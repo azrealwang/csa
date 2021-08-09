@@ -1,7 +1,13 @@
 # Interpretable security analysis of cancellable biometrics using constrained-optimized similarity-based attack
 
-This is source code of following paper. If using it in your research, please cite our paper.
+## Introduction
 
+CSA_IoM_reconstruct.m: Reconstruct preimage x;
+
+CSA_IoM_perf.m: Calculate performance of CSA;
+
+## Citation
+If using this project in your research, please cite our paper.
 ```
 @inproceedings{wang2021interpretable,
   title={Interpretable security analysis of cancellable biometrics using constrained-optimized similarity-based attack.},
@@ -11,9 +17,7 @@ This is source code of following paper. If using it in your research, please cit
   year={2021}
 }
 ```
-
 Partial codes refers to Xingbo Dong's paper, please also cite this paper if using the code.
-
 ```
 @inproceedings{dong2019genetic,
   title={A genetic algorithm enabled similarity-based attack on cancellable biometrics},
@@ -24,9 +28,3 @@ Partial codes refers to Xingbo Dong's paper, please also cite this paper if usin
   organization={IEEE}
 }
 ```
-
-## Introduction
-
-CSA_IoM_reconstruct.m: Reconstruct preimage x;
-
-CSA_IoM_perf.m: Calculate performance of CSA;
